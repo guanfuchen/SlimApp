@@ -3,7 +3,7 @@
 一款记录瘦身过程的App，其中每次记录打开摄像头捕捉人脸保存，同时记录说出的体重数，绘制人脸、体重数时间线。
 
 不断完善该App并**自己瘦身～～**
-![](https://chenguanfuqq.gitee.io/tuquan2/img_2018_5/slimapp_ui.png)
+![](./imgs/slimapp_ui.png)
 
 ---
 ## 技术关键点
